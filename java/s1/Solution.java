@@ -28,5 +28,3 @@ class Solution {
 //Time:- O(n), Space:- O(n)
 //nums = [2,7,11,15], target = 9
 //[0,1]
-//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
-//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
